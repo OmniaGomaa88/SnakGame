@@ -24,11 +24,11 @@ grid-template-rows: repeat(21,1fr);
 /*======= style of snake ========*/
 .snake{
 background-color: antiquewhite;
-border: 0,25vmin solid black;
+border: 0.25vmin solid black;
 }
 
  /*====== style of the food of snake =======*/
  .food{
     background-color: yellowgreen;
-    border: 0,25vmin solid black;
+    border: 0.25vmin solid black;
  }

@@ -28,5 +28,7 @@ updateSnake();
 }
 
 function drow(){
+//delet the points of snakebody peafour drow new ons
+gameBord.innerHTML="";
 drowSnake(gameBord);
 }
